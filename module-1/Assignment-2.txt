@@ -1,0 +1,48 @@
+Supervised vs. Unsupervised Learning
+
+Objective: To understand and differentiate between supervised and unsupervised learning and to illustrate these concepts with real-world examples.
+
+Task:
+
+In this assignment, students will explore and compare two fundamental paradigms of machine learning: supervised and unsupervised learning. They will research and write a report that explains the key differences between these approaches and provides real-world examples to reinforce their understanding.
+
+Instructions:
+
+Research and Explanation:
+
+Assign students the task of conducting research to understand the principles and characteristics of supervised and unsupervised learning. They should explore key concepts such as:
+Supervised Learning: Explain how supervised learning works, including the use of labeled data for training predictive models.
+Unsupervised Learning: Describe the principles of unsupervised learning, emphasizing the absence of labeled data and the focus on discovering patterns or structures in data.
+Differences:
+
+Instruct students to identify and explain the fundamental differences between supervised and unsupervised learning. Some points to consider include:
+Data Requirement: Discuss the data requirements for each approach.
+Learning Objectives: Explain the primary objectives of supervised vs. unsupervised learning.
+Examples: Highlight when and why each approach is used in real-world applications.
+Real-World Examples:
+
+Ask students to provide practical examples for both supervised and unsupervised learning. These examples should be drawn from various domains (e.g., healthcare, finance, marketing) to illustrate the versatility of these approaches.
+For supervised learning, examples might include:
+Email Spam Classification
+Image Classification (e.g., identifying objects in images)
+Sentiment Analysis of Customer Reviews
+For unsupervised learning, examples might include:
+Customer Segmentation
+Anomaly Detection in Credit Card Transactions
+Topic Modeling for Text Documents
+Report:
+
+Instruct students to compile their findings into a well-structured report. The report should include sections on supervised learning, unsupervised learning, differences, and real-world examples.
+Encourage students to use clear and concise language, along with visuals (e.g., diagrams, charts) to enhance understanding.
+Peer Review:
+
+Consider organizing a peer review process where students exchange their reports and provide feedback on clarity, accuracy, and completeness.
+Evaluation Criteria:
+
+This assignment will be assessed based on the following criteria:
+
+Clarity and accuracy of explanations for supervised and unsupervised learning.
+Appropriateness and relevance of real-world examples.
+Quality and organization of the report.
+Contribution to the peer review and feedback process (if applicable).
+Overall presentation and communication skills.

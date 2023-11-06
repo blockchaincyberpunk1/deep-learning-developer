@@ -1,0 +1,48 @@
+Medical Image Analysis
+
+Objective: To apply deep learning techniques in the field of medical image analysis.
+
+Task:
+
+In this assignment, students will utilize deep learning models to analyze medical images, such as X-rays, MRI scans, or CT scans, for a specific medical task, which may include disease detection, organ segmentation, or abnormality classification. The assignment tasks are as follows:
+
+1. Dataset Selection:
+
+Provide students with a dataset of medical images related to the chosen task. Ensure that the dataset is diverse, well-labeled, and contains a sufficient number of images.
+2. Data Preprocessing:
+
+Instruct students to preprocess the medical image dataset. This may involve tasks such as resizing, normalizing pixel values, handling class imbalances, and splitting the data into training and testing sets.
+3. Model Selection:
+
+Guide students in selecting an appropriate deep learning model architecture for the medical image analysis task. They can choose from architectures like convolutional neural networks (CNNs), U-Net for segmentation, or more advanced models like DenseNet or ResNet.
+4. Model Design:
+
+Help students design the architecture of their chosen model. They should define the number of layers, filter sizes, activation functions, and whether they need additional layers for segmentation tasks.
+5. Model Training:
+
+Instruct students to train the deep learning model on the preprocessed medical image dataset. They should choose appropriate loss functions (e.g., cross-entropy for classification, dice coefficient for segmentation) and optimizers (e.g., Adam).
+6. Evaluation Metrics:
+
+Explain the relevant evaluation metrics for the specific medical image analysis task. For disease detection, metrics like accuracy, precision, recall, and F1-score may be relevant. For segmentation, metrics like Dice coefficient or Intersection over Union (IoU) are commonly used.
+7. Model Evaluation:
+
+Assign students the task of evaluating their trained model using the chosen evaluation metrics. They should analyze and report the model's performance on the test dataset.
+8. Visualization:
+
+Encourage students to visualize the results of their medical image analysis. They can create visualizations that show the model's predictions overlaid on the original images or generate heatmaps for segmentation tasks.
+9. Error Analysis:
+
+Students should conduct error analysis to understand where and why the model might fail. They should discuss the limitations of their model and potential improvements.
+10. Report and Presentation:
+- Require students to create a comprehensive report that includes details about the dataset, model architecture, training process, evaluation metrics, visualizations, error analysis, and conclusions. They should also prepare a presentation to showcase their findings.
+
+Evaluation Criteria:
+
+This assignment will be assessed based on the following criteria:
+
+Proper preprocessing and handling of the medical image dataset.
+Correct implementation and training of the deep learning model.
+Appropriate selection of evaluation metrics and thorough model evaluation.
+Effective visualization of results and error analysis.
+Quality of the report and presentation, including code documentation and explanations.
+Demonstration of an understanding of applying deep learning in medical image analysis.

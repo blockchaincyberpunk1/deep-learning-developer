@@ -1,0 +1,58 @@
+Image Classification with Pretrained Models
+
+Objective: To gain experience in working with pretrained deep learning models for image classification tasks using TensorFlow and Keras.
+
+Task:
+
+In this assignment, students will learn how to leverage pretrained deep learning models to perform image classification. They will use TensorFlow and Keras to fine-tune a pretrained model (e.g., ResNet, VGG) for a specific image classification task, load the model, adapt it to their problem, and evaluate its performance.
+
+Instructions:
+
+1. Introduction:
+
+Begin with an introduction to the concept of transfer learning and the benefits of using pretrained models for image classification.
+2. Problem Statement:
+
+Assign students a specific image classification task. For example, they could classify images of animals, plants, or everyday objects into different categories.
+3. Dataset Selection and Preparation:
+
+Instruct students to select an appropriate dataset for their image classification task. They should also preprocess the dataset, including resizing images and splitting it into training and testing sets.
+4. Pretrained Model Selection:
+
+Provide a list of pretrained deep learning models (e.g., ResNet, VGG, Inception) available in TensorFlow and Keras. Students should choose a model that suits their problem.
+5. Model Fine-Tuning:
+
+Guide students through the process of fine-tuning the selected pretrained model for their image classification task. This includes:
+Loading the pretrained model.
+Modifying the model's architecture (e.g., changing the number of output classes).
+Compiling the model with appropriate loss and optimization settings.
+Defining data augmentation techniques to enhance the training dataset.
+6. Training:
+
+Instruct students to train the fine-tuned model on the training dataset. They should monitor training metrics (e.g., loss, accuracy) and visualize the training history.
+7. Evaluation:
+
+Encourage students to evaluate the model's performance on the test dataset, including metrics such as accuracy, precision, recall, and F1-score.
+8. Visualization:
+
+Ask students to provide visualizations of the model's predictions, such as confusion matrices or sample images with predicted labels.
+9. Experimentation:
+
+Challenge students to experiment with different hyperparameters (e.g., learning rate, batch size) or data augmentation techniques to observe their impact on model performance.
+10. Conclusion:
+- Conclude the assignment with a summary of their experience in fine-tuning pretrained models for image classification and insights gained from the experiments.
+
+11. Reporting:
+- Students should document their work in a report or Jupyter notebook, including code, visualizations, and explanations.
+
+Evaluation Criteria:
+
+This assignment will be assessed based on the following criteria:
+
+Correct implementation of fine-tuning a pretrained model for image classification.
+Proper dataset selection and preprocessing.
+Training the model and monitoring training metrics.
+Accurate evaluation of the model's performance using appropriate metrics.
+Quality of visualizations and ability to interpret results.
+Creativity and thoroughness in experimentation.
+Clarity and completeness of the report or notebook.

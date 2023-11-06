@@ -1,0 +1,57 @@
+Neural Network Visualization
+
+Objective: To gain an intuitive understanding of neural networks by visualizing their behavior and experimenting with custom architectures.
+
+Task:
+
+In this assignment, students will utilize a neural network visualization tool (e.g., TensorFlow Playground, Neural Network Playground) to interactively create and modify neural network architectures. By observing real-time visualizations, students will develop insights into how various network parameters and structures impact a model's behavior.
+
+Instructions:
+
+1. Introduction to Neural Network Visualization:
+
+Start by introducing students to the importance of visualizing neural networks and understanding their inner workings.
+Explain that neural network visualization tools provide a user-friendly way to experiment with different network architectures and parameters.
+2. Select a Neural Network Visualization Tool:
+
+Provide recommendations or options for neural network visualization tools that students can use for this assignment. Examples include TensorFlow Playground, Neural Network Playground, or similar online platforms.
+3. Basic Exploration:
+
+Instruct students to explore the chosen visualization tool by following these steps:
+Launch the tool and become familiar with its interface.
+Start with a basic neural network configuration (e.g., single layer, a few neurons) and observe its behavior when given sample data.
+Encourage students to change parameters like the activation function, learning rate, and dataset characteristics.
+4. Custom Neural Network Architectures:
+
+Assign students to create custom neural network architectures and observe their behavior. Examples of experiments they can conduct include:
+Experiment 1: A network with a single hidden layer and different activation functions (e.g., sigmoid, ReLU).
+Experiment 2: A deep neural network with multiple hidden layers and varying numbers of neurons.
+Experiment 3: A network with different learning rates to observe convergence speed.
+Experiment 4: A convolutional neural network (CNN) architecture (if the tool supports CNN visualization).
+Experiment 5 (Optional): A recurrent neural network (RNN) architecture (if supported).
+5. Behavior Analysis:
+
+In each experiment, students should:
+Describe their custom neural network architecture and parameter settings.
+Observe how changes in architecture and parameters affect the network's ability to learn and make predictions.
+Record insights into the behavior of different configurations.
+6. Report and Analysis:
+
+Ask students to prepare a report summarizing their experiments and observations. The report should include:
+An introduction outlining the assignment's objectives.
+Descriptions of each experiment, including neural network architecture details and parameter settings.
+Visualizations or screenshots of the neural network behavior during experiments.
+An analysis of how different configurations impacted the network's learning process.
+Insights into best practices and trade-offs observed.
+7. Discussion (Optional):
+
+If time allows, encourage students to discuss their findings with their peers or in a class discussion.
+Evaluation Criteria:
+
+This assignment will be assessed based on the following criteria:
+
+The variety and complexity of experiments conducted.
+Clarity and completeness of the report.
+Insights into the behavior of different neural network configurations.
+Effective use of the chosen neural network visualization tool.
+Overall understanding of how neural network architecture and parameters influence model behavior.

@@ -1,0 +1,66 @@
+Optimization Algorithms Comparison
+
+Objective: To compare and evaluate various optimization algorithms used in training neural networks.
+
+Task:
+
+In this assignment, students will explore and compare different optimization algorithms commonly used in training neural networks. They will apply these optimization algorithms to train a neural network model on a dataset and analyze their respective performances in terms of convergence speed and final model accuracy.
+
+Instructions:
+
+1. Introduction:
+
+Begin with an introduction that explains the importance of optimization algorithms in the training of neural networks. Discuss how the choice of optimization algorithm can impact the model's training speed and quality.
+2. Selection of Optimization Algorithms:
+
+Assign students to select at least three optimization algorithms to compare. Common choices may include:
+Stochastic Gradient Descent (SGD)
+Adam
+RMSprop
+Adagrad
+Momentum-based methods
+Students can choose additional algorithms if desired.
+3. Dataset Selection:
+
+Instruct students to choose a suitable dataset for this experiment. The dataset should be relevant to their chosen optimization task (e.g., image classification, natural language processing).
+4. Experimental Setup:
+
+Provide guidance on setting up the neural network architecture for the experiment. Students should use a consistent neural network structure for all optimization algorithms being compared.
+5. Implementation:
+
+Ask students to implement each of the selected optimization algorithms for training the neural network on the chosen dataset. They should use popular deep learning frameworks such as TensorFlow or PyTorch.
+6. Training and Monitoring:
+
+Instruct students to train each neural network using a designated optimization algorithm. They should monitor and record key training metrics, including:
+Training loss
+Validation loss
+Training accuracy
+Validation accuracy
+7. Convergence Speed Analysis:
+
+Encourage students to analyze and compare the convergence speeds of the optimization algorithms. They should identify which algorithm achieves a lower loss faster during training.
+8. Final Model Comparison:
+
+After training, students should compare the final model performance achieved by each optimization algorithm. Evaluate and report the models' accuracy on a separate test dataset.
+9. Discussion and Interpretation:
+
+Students should discuss their findings, explaining why certain optimization algorithms performed better or worse in their experiments. They can discuss factors like learning rate, batch size, and dataset characteristics that may have influenced results.
+10. Visualization:
+- Encourage students to create visualizations (e.g., loss curves, accuracy plots) to support their analysis and make their comparisons more visually appealing.
+
+11. Conclusion:
+- Conclude the assignment with a summary of the findings and insights gained from the comparison of optimization algorithms.
+
+12. Reporting:
+- Students should compile their findings into a report, presentation, or interactive notebook.
+
+Evaluation Criteria:
+
+This assignment will be assessed based on the following criteria:
+
+Clarity and completeness of the report or presentation.
+Correct implementation of selected optimization algorithms.
+Accuracy and thoroughness of experimental results.
+Clear and well-organized comparisons of convergence speed and final model performance.
+Thoughtful discussion of findings and insights.
+Quality and organization of visualizations, if included.

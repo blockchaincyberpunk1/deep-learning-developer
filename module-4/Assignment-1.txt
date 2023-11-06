@@ -1,0 +1,53 @@
+Image Classification with CNN
+
+Objective: To implement an image classification Convolutional Neural Network (CNN) using a deep learning framework.
+
+Task:
+
+In this assignment, students will be tasked with building a CNN model for image classification using a deep learning framework of their choice, such as TensorFlow or PyTorch. They will work with a provided dataset (e.g., CIFAR-10) that contains images belonging to multiple classes. The assignment will guide students through the process of designing, training, and evaluating the CNN model for image classification.
+
+Instructions:
+
+1. Introduction:
+
+Provide an introduction to the importance of image classification and its applications in various domains.
+2. Dataset:
+
+Describe the dataset (e.g., CIFAR-10) provided for the assignment, including the number of classes, the size of the images, and any preprocessing steps that have been applied.
+3. Framework Selection:
+
+Instruct students to choose a deep learning framework (e.g., TensorFlow or PyTorch) for implementing the CNN model. They should briefly explain their choice.
+4. Model Architecture:
+
+Guide students through the process of designing the architecture of the CNN model. This should include specifying the number of layers, types of layers (convolutional, pooling, fully connected), and activation functions.
+5. Data Preprocessing:
+
+Explain the necessary data preprocessing steps, such as data augmentation, resizing, normalization, and one-hot encoding for labels.
+6. Model Training:
+
+Provide instructions on how to train the CNN model using the selected framework. Students should specify the number of epochs, batch size, and optimizer.
+7. Evaluation:
+
+Instruct students to evaluate the trained model's performance using appropriate metrics (e.g., accuracy, precision, recall) and confusion matrices.
+8. Hyperparameter Tuning:
+
+Encourage students to experiment with hyperparameter tuning to improve model performance. They can adjust learning rates, dropout rates, and other hyperparameters.
+9. Visualization:
+
+Guide students on how to visualize the training process, including loss and accuracy curves, and provide code examples for generating these visualizations.
+10. Testing:
+- Instruct students to use the trained model to make predictions on a test dataset and calculate the final performance metrics.
+
+11. Report:
+- Students should compile their findings and results into a comprehensive report. The report should include model architecture diagrams, code snippets, training and evaluation results, visualizations, and a discussion of the model's performance.
+
+Evaluation Criteria:
+
+This assignment will be assessed based on the following criteria:
+
+Implementation of a well-designed CNN model.
+Correct preprocessing of the dataset.
+Accurate training and evaluation of the model.
+Proper use of hyperparameter tuning techniques.
+Quality and organization of the report, including visualizations.
+The overall performance of the CNN model in image classification.

@@ -1,0 +1,59 @@
+GAN for Image Generation
+
+Objective: To gain hands-on experience in implementing a Generative Adversarial Network (GAN) for image generation.
+
+Task:
+
+In this assignment, students will be tasked with implementing a simple GAN (Generative Adversarial Network) using a deep learning framework (e.g., TensorFlow or PyTorch). They will use a provided dataset (e.g., MNIST) to train the GAN to generate realistic images.
+
+Instructions:
+
+1. Introduction to GANs:
+
+Begin by introducing the concept of Generative Adversarial Networks (GANs) and their significance in generative modeling. Explain the basic architecture of GANs, including the generator and discriminator components.
+2. Dataset Description:
+
+Describe the dataset that will be used for this assignment (e.g., MNIST, CIFAR-10). Explain the format of the dataset, the number of classes (if applicable), and the importance of using this dataset for image generation tasks.
+3. Framework Selection:
+
+Instruct students to choose a deep learning framework (e.g., TensorFlow, PyTorch) for implementing the GAN model. They should briefly justify their choice of framework.
+4. GAN Architecture:
+
+Explain the architecture of the GAN model, including the generator and discriminator networks. Discuss the role of each component in the GAN training process.
+5. Data Preprocessing:
+
+Describe the necessary data preprocessing steps, including data loading, normalization, and reshaping. Ensure that students understand how to prepare the dataset for training.
+6. Generator Network:
+
+Guide students through the design of the generator network. Explain the input and output layers, as well as the activation functions and layer sizes. Provide code examples for creating the generator.
+7. Discriminator Network:
+
+Explain the architecture of the discriminator network. Describe the input layer, activation functions, and the final output layer. Provide code examples for creating the discriminator.
+8. GAN Training:
+
+Instruct students on how to train the GAN model using the selected framework. Discuss the training process, including loss functions (e.g., binary cross-entropy), optimizers (e.g., Adam), and batch sizes.
+9. Evaluation Metrics:
+
+Explain the evaluation metrics used for assessing the quality of the generated images. Common metrics include Inception Score, Frechet Inception Distance (FID), and visual inspection.
+10. Hyperparameter Tuning:
+- Encourage students to experiment with hyperparameter tuning to improve the quality of generated images. They can adjust parameters such as learning rates, layer sizes, and noise input.
+
+11. Image Generation:
+- Students should use the trained GAN model to generate synthetic images. Provide code examples for generating images and visualizing the results.
+
+12. Visualization:
+- Instruct students on how to visualize the generated images and compare them to real images from the dataset. Encourage them to use matplotlib or other visualization libraries.
+
+13. Report:
+- Students should compile their findings and results into a comprehensive report. The report should include GAN architecture diagrams, code snippets, training and evaluation results, visualizations of generated images, and a discussion of the model's performance.
+
+Evaluation Criteria:
+
+This assignment will be assessed based on the following criteria:
+
+Implementation of a well-designed GAN architecture with a generator and discriminator.
+Correct preprocessing and loading of the dataset.
+Accurate training of the GAN model, including appropriate loss functions and optimizers.
+Proper use of hyperparameter tuning techniques to improve image generation quality.
+Quality and organization of the report, including visualizations of generated images and evaluation metrics.
+The overall quality of the generated images and their similarity to real images from the dataset.

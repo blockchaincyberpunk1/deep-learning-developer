@@ -1,0 +1,59 @@
+Time Series Prediction with LSTM
+
+Objective: To gain practical experience in time series prediction using Long Short-Term Memory (LSTM) Recurrent Neural Networks (RNNs).
+
+Task:
+
+In this assignment, students will work on implementing an LSTM-based time series prediction model using a deep learning framework (e.g., TensorFlow or PyTorch). They will be provided with a time series dataset and will train the model to predict future values in the time series.
+
+Instructions:
+
+1. Introduction:
+
+Begin by introducing the concept of time series data and its importance in various domains such as finance, weather forecasting, and stock market prediction.
+2. Dataset Description:
+
+Describe the time series dataset provided for the assignment. Explain the nature of the time series data, its source, and its relevance. Ensure that students understand the dataset's format and characteristics.
+3. Framework Selection:
+
+Instruct students to choose a deep learning framework (e.g., TensorFlow, PyTorch) for implementing the LSTM-based time series prediction model. They should briefly justify their choice.
+4. Model Architecture:
+
+Explain the architecture of Long Short-Term Memory (LSTM) RNNs and guide students through the design of the LSTM model. Discuss the use of LSTM layers, input shape, and output layers for time series prediction.
+5. Data Preprocessing:
+
+Describe the necessary data preprocessing steps, including data normalization and creating input-output sequences suitable for training.
+6. Model Training:
+
+Provide instructions on how to train the LSTM model using the selected framework. Students should specify the number of epochs, batch size, and optimizer. Discuss techniques for handling vanishing gradients and overfitting.
+7. Evaluation Metrics:
+
+Explain the evaluation metrics used for assessing the model's time series prediction performance. Metrics may include Mean Absolute Error (MAE), Root Mean Square Error (RMSE), and others.
+8. Hyperparameter Tuning:
+
+Encourage students to experiment with hyperparameter tuning to improve the model's prediction accuracy. They can adjust the number of LSTM units, learning rates, and other relevant hyperparameters.
+9. Time Series Prediction:
+
+Guide students on how to use the trained LSTM model for making time series predictions. Provide examples of how to prepare input sequences and obtain predictions.
+10. Visualization:
+- Instruct students on how to visualize the model's predictions against the actual time series data. Provide code examples for generating visualizations.
+
+11. Testing:
+- Students should use their trained LSTM model to make predictions on a separate test dataset (not used during training) and evaluate the model's performance.
+
+12. Report:
+- Students should compile their findings and results into a comprehensive report. The report should include model architecture diagrams, code snippets, training and evaluation results, prediction visualizations, and a discussion of the model's performance.
+
+Evaluation Criteria:
+
+This assignment will be assessed based on the following criteria:
+
+Implementation of a well-designed LSTM-based time series prediction model.
+Correct preprocessing of the time series dataset.
+Accurate training and evaluation of the model, including appropriate time series prediction metrics.
+Proper use of hyperparameter tuning techniques.
+Quality and organization of the report, including prediction visualizations.
+The overall performance of the LSTM-based time series prediction model in accurately forecasting future values in the time series.
+
+
+

@@ -1,0 +1,55 @@
+Conditional GAN (cGAN)
+
+Objective: To gain experience in working with conditional Generative Adversarial Networks (cGANs) for controlled image generation.
+
+Task:
+
+In this assignment, students will extend their knowledge of GANs by implementing a Conditional GAN (cGAN) model. Unlike traditional GANs, cGANs allow for controlled image generation by conditioning on specific attributes or labels associated with each sample in the dataset.
+
+Instructions:
+
+1. Introduction to Conditional GANs:
+
+Begin by introducing the concept of Conditional Generative Adversarial Networks (cGANs) and explain their significance in controlled image generation. Highlight the difference between cGANs and traditional GANs.
+2. Dataset Description:
+
+Describe the dataset that will be used for this assignment. Emphasize that each sample in the dataset is associated with specific conditions or attributes (e.g., class labels, attributes such as "color" or "style"). Explain the format of the dataset and the importance of these conditions.
+3. Framework Selection:
+
+Instruct students to choose a deep learning framework (e.g., TensorFlow, PyTorch) for implementing the cGAN model. They should briefly justify their choice of framework.
+4. cGAN Architecture:
+
+Explain the architecture of the cGAN model, including the generator, discriminator, and how conditions are incorporated. Discuss the role of each component in the cGAN training process.
+5. Data Preprocessing:
+
+Describe the data preprocessing steps, including data loading and encoding of conditions. Ensure that students understand how to prepare the dataset for training a cGAN with conditions.
+6. Generator Network:
+
+Guide students through the design of the generator network in a cGAN. Explain how the generator takes both random noise and conditions as input and produces images as output. Provide code examples for creating the generator.
+7. Discriminator Network:
+
+Explain the architecture of the discriminator network in a cGAN. Describe how it takes both generated images and conditions as input for classification. Provide code examples for creating the discriminator.
+8. cGAN Training:
+
+Instruct students on how to train the cGAN model using the selected framework. Discuss the training process, including loss functions (e.g., conditional GAN loss), optimizers (e.g., Adam), and batch sizes.
+9. Evaluation Metrics:
+
+Explain the evaluation metrics used for assessing the quality of the generated images in a conditional GAN. Encourage students to use relevant metrics for conditional image generation.
+10. Conditioned Image Generation:
+- Students should use the trained cGAN model to generate images conditioned on specific attributes or labels. Provide code examples for generating conditioned images and visualizing the results.
+
+11. Visualization:
+- Instruct students on how to visualize the generated images and compare them to real images with the same conditions from the dataset. Encourage them to use matplotlib or other visualization libraries.
+
+12. Report:
+- Students should compile their findings and results into a comprehensive report. The report should include cGAN architecture diagrams, code snippets, training and evaluation results, visualizations of generated conditioned images, and a discussion of the model's performance.
+
+Evaluation Criteria:
+
+This assignment will be assessed based on the following criteria:
+
+Implementation of a well-designed cGAN architecture with a generator and discriminator that incorporate conditions.
+Correct preprocessing and loading of the conditional dataset.
+Accurate training of the cGAN model, including appropriate loss functions and optimizers.
+Quality and organization of the report, including visualizations of generated conditioned images and evaluation metrics.
+The overall quality of the generated conditioned images and their similarity to real images with the same conditions from the dataset.

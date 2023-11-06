@@ -1,0 +1,64 @@
+Activation Functions Experimentation
+
+Objective: To gain a deeper understanding of activation functions and their impact on neural network performance.
+
+Task:
+
+In this assignment, students will experiment with various activation functions commonly used in neural networks and evaluate how they affect a simple neural network's performance. This hands-on exercise will help students comprehend the role of activation functions in shaping a network's behavior.
+
+Instructions:
+
+1. Introduction to Activation Functions:
+
+Begin by introducing students to the concept of activation functions in neural networks. Explain that activation functions introduce non-linearity to the model, allowing it to learn complex patterns.
+2. Activation Functions Selection:
+
+Provide an overview of commonly used activation functions, including but not limited to:
+Sigmoid
+ReLU (Rectified Linear Unit)
+Tanh (Hyperbolic Tangent)
+Leaky ReLU
+Softmax (for output layers in classification tasks)
+3. Neural Network Setup:
+
+Instruct students to create a simple neural network model using Python and a deep learning framework like TensorFlow or PyTorch. The model should consist of an input layer, one or more hidden layers, and an output layer.
+4. Activation Function Experimentation:
+
+Assign students to conduct the following experiments:
+Experiment 1: Implement the neural network with the sigmoid activation function in all hidden layers.
+Experiment 2: Implement the neural network with the ReLU activation function in all hidden layers.
+Experiment 3: Combine both sigmoid and ReLU activation functions in different layers of the neural network (e.g., sigmoid in one hidden layer, ReLU in another).
+Experiment 4 (Optional): Allow students to choose and experiment with additional activation functions or variations.
+5. Data and Evaluation:
+
+Provide students with a dataset suitable for binary or multi-class classification or regression. They should split the data into training and testing sets.
+In each experiment, students should:
+Train the neural network using the specified activation function(s).
+Evaluate and record relevant performance metrics (e.g., accuracy, loss) on the test dataset.
+Visualize the behavior of the chosen activation functions (e.g., sigmoid curve, ReLU's piecewise linearity).
+6. Comparative Analysis:
+
+Instruct students to compare and contrast the results from different experiments.
+Analyze how each activation function affects the neural network's training speed, convergence, and accuracy.
+Consider discussing issues like vanishing gradients and dead neurons for certain activation functions.
+7. Reporting:
+
+Ask students to prepare a report summarizing their findings, which should include:
+Introduction to the assignment and its objectives.
+Detailed descriptions of the experiments conducted.
+Presentation of performance metrics (accuracy, loss) for each experiment.
+Visualizations of activation functions and their impact.
+Comparative analysis and insights into the strengths and weaknesses of different activation functions.
+Conclusions and recommendations on when to use specific activation functions.
+8. Presentation (Optional):
+
+Encourage students to present their findings to the class, sharing their insights and observations.
+Evaluation Criteria:
+
+This assignment will be assessed based on the following criteria:
+
+The thoroughness of experimentation and analysis.
+Clarity and completeness of the report.
+The ability to draw meaningful conclusions regarding activation function behavior.
+Effective use of data visualization.
+Overall understanding of activation functions and their implications for neural networks.

@@ -1,0 +1,42 @@
+Sentiment Analysis with LSTM
+
+Objective: To gain hands-on experience in implementing Long Short-Term Memory (LSTM) networks for sentiment analysis using deep learning frameworks.
+
+Task:
+
+In this assignment, students will work on building an LSTM-based sentiment analysis model using a deep learning framework (e.g., TensorFlow or PyTorch). They will perform the following tasks:
+
+1. Dataset Introduction:
+
+Provide students with a sentiment analysis dataset. Explain that the dataset consists of text samples along with their corresponding sentiment labels (e.g., positive, negative, neutral).
+2. Data Preprocessing:
+
+Instruct students to perform data preprocessing steps, including tokenization, padding, and any other necessary text cleaning or encoding steps. They should prepare the text data for input to the LSTM model.
+3. LSTM Model Construction:
+
+Guide students through the construction of an LSTM-based sentiment analysis model using the chosen deep learning framework. Encourage them to experiment with different LSTM architectures and hyperparameters. They should define the network architecture, specify the number of LSTM layers, and choose appropriate activation functions.
+4. Data Splitting:
+
+Ask students to split the dataset into training, validation, and testing sets. Explain the importance of using validation data for model tuning.
+5. Model Training:
+
+Instruct students to train the LSTM model on the training data. They should use appropriate loss functions (e.g., categorical cross-entropy for multi-class sentiment analysis), optimizers (e.g., Adam or RMSprop), and batch sizes.
+6. Model Evaluation:
+
+Assign students the task of evaluating the trained model on the testing dataset. They should calculate evaluation metrics such as accuracy, precision, recall, F1-score, and confusion matrices to assess the model's performance.
+7. Analysis and Interpretation:
+
+Students should analyze the results and provide insights into the model's predictions. They can discuss common challenges in sentiment analysis and explain how their model performed in handling them.
+8. Report and Presentation:
+
+Require students to create a comprehensive report detailing their LSTM-based sentiment analysis model, including code snippets, hyperparameters, and evaluation results. Additionally, they should prepare a presentation to communicate their findings and model performance.
+Evaluation Criteria:
+
+This assignment will be assessed based on the following criteria:
+
+Proper data preprocessing and text encoding techniques applied.
+Correct implementation and training of the LSTM model.
+Thorough evaluation of model performance using appropriate metrics.
+Clear analysis of the results and discussion of model performance.
+Quality of the report and presentation, including code documentation and explanations.
+Demonstration of an understanding of LSTM networks for sentiment analysis.

@@ -1,0 +1,46 @@
+Named Entity Recognition (NER) with Bidirectional LSTM-CRF
+
+Objective: To gain hands-on experience in implementing a Named Entity Recognition (NER) system using advanced sequence models like bidirectional LSTM-CRF.
+
+Task:
+
+In this assignment, students will work on building a Named Entity Recognition (NER) system using a bidirectional LSTM-CRF architecture. They will perform the following tasks:
+
+1. Dataset Introduction:
+
+Provide students with a dataset containing text with labeled named entities (e.g., persons, organizations, locations) in a variety of domains.
+2. Data Preprocessing:
+
+Instruct students to perform data preprocessing steps, including tokenization, padding, and any other necessary text cleaning or encoding steps. They should prepare the text data and label sequences for input to the NER model.
+3. Model Construction:
+
+Guide students through the construction of a bidirectional LSTM-CRF model for NER. They should use a deep learning framework (e.g., TensorFlow or PyTorch) to define the architecture, specify the number of layers, and choose appropriate activation functions.
+4. Data Splitting:
+
+Ask students to split the dataset into training, validation, and testing sets. Explain that they should reserve a portion of the data for model evaluation.
+5. Model Training:
+
+Instruct students to train the bidirectional LSTM-CRF model on the training data. They should use appropriate loss functions (e.g., the CRF loss), optimizers (e.g., Adam or RMSprop), and batch sizes.
+6. Model Evaluation:
+
+Assign students the task of evaluating the trained NER model on the validation and testing datasets. They should calculate evaluation metrics such as precision, recall, F1-score, and confusion matrices to assess the model's performance.
+7. Hyperparameter Tuning:
+
+Encourage students to explore hyperparameter tuning techniques to optimize the model's performance. They can experiment with different architectures, learning rates, and dropout rates.
+8. Error Analysis:
+
+Students should analyze the model's predictions, identify common errors, and discuss possible reasons for misclassifications.
+9. Report and Presentation:
+
+Require students to create a comprehensive report detailing their NER model's architecture, hyperparameters, evaluation results, and error analysis. Additionally, they should prepare a presentation to communicate their findings and model performance.
+Evaluation Criteria:
+
+This assignment will be assessed based on the following criteria:
+
+Proper data preprocessing and sequence encoding techniques applied.
+Correct implementation and training of the bidirectional LSTM-CRF model.
+Thorough evaluation of the NER model using appropriate metrics.
+Effective hyperparameter tuning and model optimization efforts.
+Clear error analysis and discussion of model performance.
+Quality of the report and presentation, including code documentation and explanations.
+Demonstration of an understanding of advanced sequence models for NER.

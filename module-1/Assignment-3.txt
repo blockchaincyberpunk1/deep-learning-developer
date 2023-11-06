@@ -1,0 +1,53 @@
+Implementing a Perceptron
+
+Objective: To practice and understand the fundamental concepts of neural networks by implementing a single-layer perceptron from scratch.
+
+Task:
+
+In this assignment, students will gain hands-on experience in neural network fundamentals by implementing a single-layer perceptron from scratch using Python or another programming language. This exercise will require students to understand and apply key concepts such as activation functions, weights, and biases.
+
+Instructions:
+
+Introduction to Perceptrons:
+
+Begin by introducing the concept of perceptrons to students. Explain that a perceptron is one of the simplest types of artificial neural networks, consisting of input features, weights, a bias term, and an activation function.
+Basic Structure of a Perceptron:
+
+Describe the basic components of a perceptron:
+Input Features: These represent the data fed into the perceptron.
+Weights: Each input feature is associated with a weight, which is adjusted during training.
+Bias: The bias term is added to the weighted sum of inputs.
+Activation Function: The activation function determines the output of the perceptron.
+Mathematical Representation:
+
+Provide the mathematical representation of a perceptron, including how the weighted sum and activation function are applied.
+Implementation:
+
+Instruct students to write code to implement a single-layer perceptron from scratch in Python or another chosen programming language. They should focus on the following steps:
+Initialize weights and bias.
+Implement the weighted sum of inputs.
+Apply the activation function (e.g., step function, sigmoid, or ReLU).
+Define a learning algorithm (e.g., perceptron learning rule) to update weights and bias during training.
+Create a function that trains the perceptron on a sample dataset.
+Testing:
+
+Students should test their perceptron implementation on sample datasets to verify that it can correctly classify or make predictions based on input data.
+Report:
+
+Ask students to write a report that includes:
+An explanation of their code implementation, highlighting key sections.
+Examples of input data and the perceptron's output.
+Observations and insights regarding the behavior of the perceptron.
+Suggestions for further improvements or modifications.
+Peer Review (Optional):
+
+Consider organizing a peer review process where students can exchange their code implementations and provide feedback on code quality, readability, and correctness.
+Evaluation Criteria:
+
+This assignment will be assessed based on the following criteria:
+
+Accuracy and correctness of the perceptron implementation.
+Clarity of the report, including explanations of code and results.
+Successful application of concepts like weights, bias, and activation functions.
+Contribution to the peer review and feedback process (if applicable).
+Overall coding skills and understanding of neural network fundamentals.

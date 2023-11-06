@@ -1,0 +1,53 @@
+Reproduction of Research Results
+
+Objective: To develop the skills necessary to reproduce and validate research findings in the field of deep learning.
+
+Task:
+
+In this assignment, students will select a deep learning research paper and undertake the challenging task of reproducing the research results presented in the paper. Reproducibility is a crucial aspect of scientific research, and this assignment aims to foster a deeper understanding of the methods, algorithms, and experiments used in deep learning research. Here are the detailed tasks:
+
+1. Paper Selection:
+
+Instruct students to choose a recent deep learning research paper from a reputable conference or journal. Emphasize the importance of selecting a paper with clear and well-documented methodologies.
+2. Paper Analysis:
+
+Require students to thoroughly analyze the selected research paper. They should:
+Understand the research problem or question the paper addresses.
+Study the methodologies, algorithms, and model architectures presented in the paper.
+Examine the experimental setup, including datasets, hyperparameters, and training procedures.
+Collect all relevant details about the original research to ensure accurate reproduction.
+3. Implementation:
+
+Ask students to implement the model and experimental settings described in the paper. They should:
+Code the neural network architecture and any associated algorithms.
+Set up the same training and validation procedures.
+Use the provided or publicly available datasets.
+Ensure that the implementation is as faithful to the paper as possible.
+4. Reproduction:
+
+Students should aim to reproduce the results reported in the selected paper as closely as possible. This includes:
+Training the model with the same or equivalent hyperparameters.
+Running the experiments using the same evaluation metrics and procedures.
+Documenting any deviations or challenges faced during the reproduction process.
+5. Comparison:
+
+After successfully reproducing the results, students should compare their findings with the original research results. They should:
+Compare performance metrics (e.g., accuracy, loss) with those reported in the paper.
+Analyze any differences and discuss potential reasons for variations, if present.
+6. Report:
+
+Students should submit a detailed report that includes:
+A summary of the selected research paper.
+A clear description of the implementation process.
+Presentation and comparison of their results with the original findings.
+Discussion of challenges encountered during reproduction.
+Insights into the importance of reproducibility in scientific research.
+Evaluation Criteria:
+
+This assignment will be assessed based on the following criteria:
+
+Selection of a recent and relevant deep learning research paper.
+Thorough analysis of the paper's content and research methodologies.
+Faithful implementation of the model and experiments.
+Accuracy of the reproduced results compared to the original findings.
+Clear and comprehensive reporting, including discussions of variations and challenges.

@@ -1,0 +1,56 @@
+Sentiment Analysis with Bidirectional LSTM
+
+Objective: To gain practical experience in sentiment analysis using Bidirectional Long Short-Term Memory (LSTM) Recurrent Neural Networks (RNNs).
+
+Task:
+
+In this assignment, students will implement a Bidirectional LSTM-based sentiment analysis model using a deep learning framework (e.g., TensorFlow or PyTorch). They will be provided with a sentiment analysis dataset and will train the model to classify text sentiments as positive, negative, or neutral.
+
+Instructions:
+
+1. Introduction:
+
+Begin by introducing the concept of sentiment analysis and its applications in natural language processing. Explain how sentiment analysis can be used to determine the emotional tone of text data.
+2. Dataset Description:
+
+Describe the sentiment analysis dataset provided for the assignment. Explain the format of the dataset, the sentiment labels (positive, negative, neutral), and the relevance of sentiment analysis in real-world scenarios.
+3. Framework Selection:
+
+Instruct students to choose a deep learning framework (e.g., TensorFlow, PyTorch) for implementing the Bidirectional LSTM-based sentiment analysis model. They should briefly justify their choice.
+4. Model Architecture:
+
+Explain the architecture of Bidirectional LSTM RNNs and guide students through the design of the sentiment analysis model. Discuss the use of Bidirectional LSTM layers, input preprocessing, and output layers for sentiment classification.
+5. Data Preprocessing:
+
+Describe the necessary data preprocessing steps, including text tokenization, padding, and creating input sequences suitable for training. Explain how to handle issues like stop words and special characters.
+6. Model Training:
+
+Provide instructions on how to train the Bidirectional LSTM model using the selected framework. Students should specify the number of epochs, batch size, and optimizer. Discuss techniques for handling imbalanced datasets and monitoring training progress.
+7. Evaluation Metrics:
+
+Explain the evaluation metrics used for assessing the model's sentiment analysis performance. Common metrics include accuracy, precision, recall, and F1-score.
+8. Hyperparameter Tuning:
+
+Encourage students to experiment with hyperparameter tuning to improve the model's sentiment classification accuracy. They can adjust the number of LSTM units, learning rates, and other relevant hyperparameters.
+9. Sentiment Classification:
+
+Guide students on how to use the trained Bidirectional LSTM model for sentiment classification. Provide examples of how to process text data, make predictions, and interpret the sentiment results.
+10. Testing:
+- Students should use their trained Bidirectional LSTM model to classify sentiments in a separate test dataset (not used during training) and evaluate the model's performance.
+
+11. Visualization:
+- Instruct students on how to visualize the model's predictions and performance metrics. Provide code examples for generating visualizations such as confusion matrices and ROC curves.
+
+12. Report:
+- Students should compile their findings and results into a comprehensive report. The report should include model architecture diagrams, code snippets, training and evaluation results, sentiment classification examples, and a discussion of the model's performance.
+
+Evaluation Criteria:
+
+This assignment will be assessed based on the following criteria:
+
+Implementation of a well-designed Bidirectional LSTM-based sentiment analysis model.
+Correct preprocessing and tokenization of text data.
+Accurate training and evaluation of the model, including appropriate sentiment analysis metrics.
+Proper use of hyperparameter tuning techniques.
+Quality and organization of the report, including sentiment classification examples and visualizations.
+The overall performance of the Bidirectional LSTM-based sentiment analysis model in correctly classifying text sentiments as positive, negative, or neutral.

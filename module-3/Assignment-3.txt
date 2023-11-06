@@ -1,0 +1,55 @@
+PyTorch Fundamentals
+
+Objective: To familiarize students with the basics of PyTorch and its application in building neural networks for regression problems.
+
+Task:
+
+In this assignment, students will use PyTorch to create a neural network for a simple regression task. They will define the model architecture, loss function, and optimizer using PyTorch. This assignment aims to introduce students to the fundamental concepts of PyTorch and how it can be used for building and training neural networks.
+
+Instructions:
+
+1. Introduction:
+
+Start with a brief introduction to PyTorch, explaining its significance in the field of deep learning and the benefits of using PyTorch for neural network development.
+2. Problem Statement:
+
+Assign students a simple regression problem. For example, they can work on predicting housing prices based on features like square footage, number of bedrooms, and location.
+3. Dataset Selection and Preparation:
+
+Instruct students to select or provide them with a dataset suitable for the regression task. They should also preprocess the data, handling missing values and splitting it into training and testing sets.
+4. Model Architecture:
+
+Guide students through the process of defining a neural network architecture using PyTorch. They should choose the number of layers, neurons, and activation functions that suit the regression problem.
+5. Loss Function and Optimizer:
+
+Teach students how to select an appropriate loss function (e.g., Mean Squared Error) and optimizer (e.g., Stochastic Gradient Descent) for the regression task. They should define these components in PyTorch.
+6. Training Loop:
+
+Explain the concept of a training loop in PyTorch. Students should implement the training loop to train the neural network on the training dataset, calculate the loss, and update the model's weights.
+7. Evaluation:
+
+Instruct students to evaluate the trained model's performance on the test dataset. They should calculate relevant metrics (e.g., Mean Absolute Error, Root Mean Squared Error) to assess regression accuracy.
+8. Visualization:
+
+Encourage students to create visualizations that illustrate the model's predictions compared to the actual target values in the test dataset.
+9. Experimentation:
+
+Challenge students to experiment with different hyperparameters (e.g., learning rate, number of hidden layers) to observe their impact on model performance.
+10. Conclusion:
+- Conclude the assignment with a summary of their experience in building a PyTorch-based neural network for regression and insights gained from their experiments.
+
+11. Reporting:
+- Students should document their work in a report or Jupyter notebook, including code, visualizations, and explanations.
+
+Evaluation Criteria:
+
+This assignment will be assessed based on the following criteria:
+
+Correct implementation of a PyTorch-based neural network for regression.
+Proper dataset selection and preprocessing.
+Accurate definition of the model architecture, loss function, and optimizer.
+Successful training of the model and monitoring of training metrics.
+Accurate evaluation of the model's performance using appropriate regression metrics.
+Quality of visualizations and ability to interpret results.
+Creativity and thoroughness in experimentation.
+Clarity and completeness of the report or notebook.

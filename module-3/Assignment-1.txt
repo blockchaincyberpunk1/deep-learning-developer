@@ -1,0 +1,67 @@
+Introduction to TensorFlow
+
+Objective: To gain familiarity with TensorFlow and Keras for building and training neural networks.
+
+Task:
+
+In this assignment, students will be introduced to TensorFlow and Keras, two widely used deep learning libraries. They will build a simple neural network to solve a basic classification problem, visualize the model architecture, and monitor the training process.
+
+Instructions:
+
+1. Introduction:
+
+Begin with a brief introduction to TensorFlow and Keras, highlighting their significance in deep learning and machine learning.
+2. Problem Statement:
+
+Assign students a basic classification problem using the MNIST dataset, which consists of grayscale images of handwritten digits (0-9). The task is to classify the digits correctly.
+3. TensorFlow and Keras Setup:
+
+Provide students with instructions on how to set up TensorFlow and Keras on their local machines or in a suitable environment (e.g., Google Colab).
+4. Data Preparation:
+
+Instruct students to load and preprocess the MNIST dataset. They should split it into training and testing sets.
+5. Model Building:
+
+Guide students through the process of building a simple feedforward neural network using Keras. The architecture should include:
+Input layer
+One or more hidden layers
+Output layer with appropriate activation function
+Encourage students to experiment with the number of layers and neurons to understand their impact on model performance.
+6. Model Compilation:
+
+Teach students how to compile the model, specifying the loss function, optimizer, and evaluation metrics.
+7. Training:
+
+Instruct students to train the model on the training dataset. They should monitor training metrics (e.g., loss, accuracy) during the training process.
+8. Visualization:
+
+Encourage students to visualize the following aspects of the model:
+Model architecture using tools like model.summary().
+Training history (e.g., loss and accuracy curves).
+Examples of correctly and incorrectly classified digits from the test set.
+9. Model Evaluation:
+
+Ask students to evaluate the trained model's performance on the test dataset and report the classification accuracy.
+10. Experimentation:
+- Challenge students to experiment with different hyperparameters (e.g., learning rate, batch size) or model architectures to observe their impact on performance.
+
+11. Conclusion:
+- Conclude the assignment with a summary of the experience gained from building and training a neural network using TensorFlow and Keras.
+
+12. Reporting:
+- Students should document their work in a report or Jupyter notebook, including code, visualizations, and explanations.
+
+Evaluation Criteria:
+
+This assignment will be assessed based on the following criteria:
+
+Correct implementation of a neural network using TensorFlow and Keras.
+Proper data loading and preprocessing.
+Training the model and monitoring training metrics.
+Clear and informative visualizations of model architecture and training history.
+Accurate evaluation of the model's performance.
+Quality of experimentation and ability to articulate insights.
+Clarity and completeness of the report or notebook.
+
+
+

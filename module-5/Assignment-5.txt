@@ -1,0 +1,55 @@
+Sentiment Analysis with Pre-trained Transformers
+
+Objective: To gain practical experience in performing sentiment analysis using pre-trained transformer models and deep learning frameworks.
+
+Task:
+
+In this assignment, students will apply state-of-the-art natural language processing techniques to perform sentiment analysis using pre-trained transformer models. They will work with a pre-trained model (e.g., BERT, GPT-2) and fine-tune it for sentiment classification on a specific dataset. This assignment provides hands-on experience in leveraging powerful language models for real-world applications.
+
+Instructions:
+
+1. Introduction to Sentiment Analysis and Pre-trained Transformers:
+
+Begin by introducing the concept of sentiment analysis and the importance of understanding sentiment in text data. Explain the role of pre-trained transformer models in NLP tasks.
+2. Sentiment Analysis Dataset:
+
+Describe the sentiment analysis dataset that students will use for this assignment. Provide information about the number of classes (e.g., positive, negative, neutral), the format of the data, and any specific characteristics of the dataset.
+3. Selection of Pre-trained Transformer Model:
+
+Instruct students to choose a pre-trained transformer model (e.g., BERT, GPT-2) suitable for sentiment analysis. They should explain their choice based on the model's architecture and performance on NLP tasks.
+4. Data Preprocessing:
+
+Explain the data preprocessing steps, including tokenization, padding, and encoding. Ensure students understand how to prepare the text data for fine-tuning.
+5. Fine-tuning the Pre-trained Transformer:
+
+Describe the process of fine-tuning the chosen pre-trained transformer model for sentiment analysis. Students should understand how to adapt the model's architecture and weights for their specific task.
+6. Sentiment Classes and Labels:
+
+Instruct students to define the sentiment classes and labels used in their dataset. They should provide details about the mapping between classes and how the model will predict sentiment.
+7. Loss Function and Optimizer:
+
+Guide students on choosing an appropriate loss function and optimizer for sentiment analysis. Discuss why specific choices are suitable for this NLP task.
+8. Training the Model:
+
+Explain the training process, including setting hyperparameters (e.g., learning rate, batch size) and the number of epochs. Students should understand how to monitor the training process and visualize training metrics.
+9. Evaluation Metrics:
+
+Describe the evaluation metrics used for assessing the performance of the fine-tuned sentiment analysis model. Common metrics include accuracy, precision, recall, F1-score, and confusion matrices.
+10. Model Evaluation:
+- Instruct students to evaluate the fine-tuned model's performance on a validation dataset. They should calculate and report relevant evaluation metrics and visualize the results.
+
+11. Sentiment Analysis Testing:
+- Encourage students to use the fine-tuned model to perform sentiment analysis on a test dataset or new text samples. They should report sentiment classification results, including predicted sentiment labels.
+
+12. Report and Analysis:
+- Students should compile their findings and results into a comprehensive report. The report should include model architecture diagrams, code snippets, training and evaluation results, visualizations, and a discussion of the model's performance and potential improvements.
+
+Evaluation Criteria:
+
+This assignment will be assessed based on the following criteria:
+
+Selection and fine-tuning of an appropriate pre-trained transformer model for sentiment analysis.
+Correct data preprocessing and encoding of text data.
+Accurate fine-tuning of the model for sentiment classification.
+Quality and organization of the report, including visualizations and evaluation metrics.
+The overall performance of the fine-tuned sentiment analysis model, including accuracy, precision, recall, F1-score, and any additional insights gained.

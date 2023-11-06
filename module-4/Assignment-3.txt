@@ -1,0 +1,59 @@
+Text Generation with RNNs
+
+Objective: To gain hands-on experience in text generation using Recurrent Neural Networks (RNNs).
+
+Task:
+
+In this assignment, students will be tasked with creating an RNN-based text generation model using a deep learning framework, such as TensorFlow or PyTorch. They will train the model on a provided text dataset and generate coherent and contextually relevant text samples.
+
+Instructions:
+
+1. Introduction:
+
+Provide an introduction to the importance and applications of text generation in natural language processing, such as chatbots, language modeling, and creative writing.
+2. Dataset:
+
+Describe the text dataset provided for the assignment, including its source, size, and any preprocessing steps required. Students should understand the format and content of the dataset.
+3. Framework Selection:
+
+Instruct students to choose a deep learning framework (e.g., TensorFlow, PyTorch) for implementing the RNN-based text generation model. They should explain their choice briefly.
+4. Model Architecture:
+
+Explain the basics of Recurrent Neural Networks (RNNs) and guide students through the design of the RNN-based text generation model. Discuss the use of LSTM or GRU cells, embedding layers, and output layers.
+5. Data Preprocessing:
+
+Describe the necessary data preprocessing steps, including text tokenization, padding, and creating input-output pairs for training.
+6. Model Training:
+
+Provide instructions on how to train the RNN model using the selected framework. Students should specify the number of epochs, batch size, and optimizer. Discuss techniques for dealing with vanishing gradients during training.
+7. Evaluation:
+
+Instruct students to evaluate the trained model's text generation performance using appropriate metrics. They should discuss factors such as fluency, coherence, and diversity of generated text.
+8. Hyperparameter Tuning:
+
+Encourage students to experiment with hyperparameter tuning to improve the quality of generated text. They can adjust learning rates, hidden layer sizes, and other relevant hyperparameters.
+9. Text Generation:
+
+Guide students on how to generate text using the trained model. Provide examples of how to start the generation process with a seed text and allow the model to predict the next words.
+10. Visualization:
+- Instruct students on how to visualize the generated text samples and provide code examples for generating these visualizations.
+
+11. Testing:
+- Students should generate text samples using the trained model and assess the quality of the generated text. They should also discuss any limitations or challenges encountered during text generation.
+
+12. Report:
+- Students should compile their findings and results into a comprehensive report. The report should include model architecture diagrams, code snippets, training and evaluation results, generated text samples, and a discussion of the model's performance.
+
+Evaluation Criteria:
+
+This assignment will be assessed based on the following criteria:
+
+Implementation of a well-designed RNN-based text generation model.
+Correct preprocessing of the text dataset.
+Accurate training and evaluation of the model, including text generation quality metrics.
+Proper use of hyperparameter tuning techniques.
+Quality and organization of the report, including generated text samples.
+The overall performance of the RNN-based text generation model in generating coherent and contextually relevant text.
+
+
+

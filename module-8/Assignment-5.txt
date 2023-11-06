@@ -1,0 +1,48 @@
+Conference Presentation
+
+Objective: To develop presentation skills and gain a deeper understanding of a research paper in the field of deep learning.
+
+Task:
+
+In this assignment, students will select a research paper from a reputable deep learning conference, such as NeurIPS, ICML, or CVPR, and prepare a presentation summarizing the paper's key concepts, methodology, and contributions. The objective is to enable students to not only understand complex research papers but also effectively communicate their findings to their peers. Here are the detailed tasks:
+
+1. Paper Selection:
+
+Instruct students to choose a recent research paper (preferably from the same year or the previous year) from a well-known deep learning conference. Encourage them to select papers that align with their interests.
+2. Paper Analysis:
+
+Require students to thoroughly analyze the selected research paper. They should:
+Understand the research problem or question the paper addresses.
+Study the methodologies, algorithms, and model architectures presented in the paper.
+Examine the experimental setup, including datasets, hyperparameters, and training procedures.
+Collect all relevant details about the research to ensure a comprehensive understanding.
+3. Presentation Preparation:
+
+Students should prepare a presentation based on their analysis of the research paper. The presentation should include the following components:
+Title and authors of the paper.
+Introduction to the research problem and motivation.
+Explanation of key concepts, methods, and algorithms used.
+Presentation of experimental results and findings.
+Discussion of the paper's contributions and implications.
+Visual aids (slides) to support the presentation.
+4. Presentation Delivery:
+
+Each student should deliver a presentation to the class summarizing the selected research paper. The presentations should be well-structured, clear, and concise, with a focus on explaining complex concepts in an understandable manner.
+5. Q&A Session:
+
+After each presentation, allocate time for a brief question and answer (Q&A) session where students can ask questions and engage in discussions about the paper.
+6. Peer Evaluation:
+
+Encourage students to provide feedback and evaluations for each other's presentations. This can include assessing clarity, content, and presentation skills.
+7. Reflection:
+
+After the presentations, ask students to write a short reflection on what they learned from presenting and listening to their peers' presentations. They should discuss any challenges they faced and how they addressed them.
+Evaluation Criteria:
+
+This assignment will be assessed based on the following criteria:
+
+Selection of a relevant and recent research paper.
+Comprehensive understanding of the paper's content and methodology.
+Clarity, organization, and effectiveness of the presentation.
+Ability to communicate complex concepts to peers.
+Active participation in Q&A sessions and peer evaluations.

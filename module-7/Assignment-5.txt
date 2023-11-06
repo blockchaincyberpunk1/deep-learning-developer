@@ -1,0 +1,45 @@
+Real-World Problem Solving
+
+Objective: To solve a real-world problem with deep learning techniques.
+
+Task:
+
+In this assignment, students will tackle a real-world problem of their choice in a domain that interests them. They will apply deep learning techniques to develop a solution for the problem. The assignment tasks are as follows:
+
+1. Problem Selection:
+
+Encourage students to choose a real-world problem in a domain that piques their interest. The problem should be challenging and amenable to a deep learning solution. Examples include fraud detection, image recognition, natural language processing tasks, or any other problem relevant to their chosen domain.
+2. Data Collection and Preparation:
+
+Instruct students to collect or obtain relevant data for the chosen problem. They should clean, preprocess, and format the data as needed for deep learning model input.
+3. Problem Definition:
+
+Ask students to clearly define the problem they are trying to solve. What is the objective, and what are the key performance metrics? They should have a well-defined problem statement.
+4. Model Selection:
+
+Guide students in selecting an appropriate deep learning model architecture for the problem. They can choose from various architectures, including convolutional neural networks (CNNs), recurrent neural networks (RNNs), transformers, or custom architectures.
+5. Model Design and Implementation:
+
+Have students design the architecture of their deep learning model. They should specify the number of layers, types of layers, activation functions, loss functions, and optimizers. They should also implement the model using a deep learning framework (e.g., TensorFlow or PyTorch).
+6. Training and Hyperparameter Tuning:
+
+Instruct students to train their deep learning model using the prepared dataset. They should fine-tune hyperparameters, monitor training progress, and address issues such as overfitting or underfitting.
+7. Evaluation and Metrics:
+
+Explain the relevant evaluation metrics for the chosen problem. Students should evaluate their model's performance using appropriate metrics and analyze the results.
+8. Model Deployment (Optional):
+
+If feasible, students can deploy their trained model as part of the assignment. They can create a simple web application or API to showcase how the model works in a real-world scenario.
+9. Report and Presentation:
+
+Require students to create a comprehensive report that includes details about the problem, data, model architecture, training process, evaluation results, and insights gained. They should also prepare a presentation to communicate their findings and solution.
+Evaluation Criteria:
+
+This assignment will be assessed based on the following criteria:
+
+Effective problem selection and definition.
+Successful data collection, preprocessing, and preparation.
+Appropriate selection and implementation of the deep learning model.
+Thorough training, hyperparameter tuning, and model evaluation.
+Quality of the report and presentation, including clear explanations and visualizations.
+Demonstrated understanding of solving real-world problems with deep learning techniques.

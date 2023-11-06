@@ -1,0 +1,39 @@
+Text Classification
+
+Objective: To gain practical experience in text classification using both traditional machine learning and deep learning techniques in Natural Language Processing (NLP).
+
+Task:
+
+In this assignment, students will work with a text classification dataset and perform the following tasks:
+
+1. Dataset Introduction:
+
+Provide students with a text classification dataset. The dataset should contain a collection of text documents and corresponding labels for classification. Explain the context of the dataset, whether it's sentiment analysis, spam detection, or any other classification problem.
+2. Data Preprocessing:
+
+Instruct students to perform necessary data preprocessing steps, which may include tokenization, stopword removal, stemming/lemmatization, and any other text cleaning steps. They should prepare the data for model training.
+3. Traditional Machine Learning Approach:
+
+Assign students to implement a traditional machine learning approach for text classification. Suggest algorithms such as Naive Bayes, logistic regression, or Support Vector Machines (SVM). They should split the dataset into training and testing sets, train the model, and evaluate its performance using appropriate metrics (e.g., accuracy, precision, recall, F1-score).
+4. Deep Learning Approach:
+
+Instruct students to build a simple deep learning model for text classification. They can use libraries like TensorFlow or PyTorch to create a neural network. Encourage them to experiment with different model architectures, such as a feedforward neural network or a basic recurrent neural network (RNN). Similar to the traditional approach, they should train the model, evaluate its performance, and report the results.
+5. Model Comparison:
+
+Ask students to compare the performance of the traditional machine learning model and the deep learning model. Which approach achieved better results, and why? They should also discuss any challenges or limitations they encountered during model development.
+6. Analysis and Interpretation:
+
+Students should analyze the results and provide insights into the dataset characteristics and the model's ability to classify text correctly. What are the key features or factors that influence the model's predictions?
+7. Report and Presentation:
+
+Require students to create a comprehensive report summarizing their approach, code snippets, results, and analysis. They should also prepare a presentation to communicate their findings and showcase the model's performance.
+Evaluation Criteria:
+
+This assignment will be assessed based on the following criteria:
+
+Proper data preprocessing and cleaning techniques applied.
+Correct implementation of traditional machine learning and deep learning models.
+Thorough evaluation of model performance using appropriate metrics.
+Clear and insightful analysis of the results and model comparison.
+Quality of the report and presentation, including code documentation and explanations.
+Demonstration of an understanding of text classification techniques in NLP.

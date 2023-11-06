@@ -1,0 +1,42 @@
+Language Translation with Sequence-to-Sequence (Seq2Seq) Model
+
+Objective: To gain hands-on experience in implementing a Sequence-to-Sequence (Seq2Seq) model with LSTM or GRU units for language translation.
+
+Task:
+
+In this assignment, students will work on building a Seq2Seq model for language translation. They will perform the following tasks:
+
+1. Dataset Introduction:
+
+Provide students with a parallel text dataset containing sentences in two languages (e.g., English and French) along with their corresponding translations.
+2. Data Preprocessing:
+
+Instruct students to perform data preprocessing steps, including tokenization, padding, and any other necessary text cleaning or encoding steps. They should prepare the text data for input to the Seq2Seq model.
+3. Seq2Seq Model Construction:
+
+Guide students through the construction of a Seq2Seq model using LSTM or GRU units with the chosen deep learning framework (e.g., TensorFlow or PyTorch). They should define both the encoder and decoder architectures, specify the number of layers, and choose appropriate activation functions.
+4. Data Splitting:
+
+Ask students to split the dataset into training and testing sets. Explain that they should reserve a portion of the data for evaluating the model's translation performance.
+5. Model Training:
+
+Instruct students to train the Seq2Seq model on the training data. They should use appropriate loss functions (e.g., categorical cross-entropy), optimizers (e.g., Adam or RMSprop), and batch sizes.
+6. Model Evaluation:
+
+Assign students the task of evaluating the trained model on the testing dataset. They should calculate evaluation metrics specific to translation tasks, such as BLEU (Bilingual Evaluation Understudy) scores, which measure translation quality.
+7. Analysis and Interpretation:
+
+Students should analyze the translation results and provide insights into the model's performance. They can discuss common challenges in machine translation and explain how their Seq2Seq model handled them.
+8. Report and Presentation:
+
+Require students to create a comprehensive report detailing their Seq2Seq model for language translation, including code snippets, hyperparameters, and evaluation results. Additionally, they should prepare a presentation to communicate their findings and model performance.
+Evaluation Criteria:
+
+This assignment will be assessed based on the following criteria:
+
+Proper data preprocessing and text encoding techniques applied.
+Correct implementation and training of the Seq2Seq model.
+Thorough evaluation of translation quality using appropriate metrics (e.g., BLEU scores).
+Clear analysis of the translation results and discussion of model performance.
+Quality of the report and presentation, including code documentation and explanations.
+Demonstration of an understanding of Seq2Seq models for language translation.

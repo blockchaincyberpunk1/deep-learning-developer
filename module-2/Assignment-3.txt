@@ -1,0 +1,58 @@
+Gradient Descent Implementation
+
+Objective: To gain a hands-on understanding of gradient descent optimization.
+
+Task:
+
+In this assignment, students will implement the gradient descent algorithm from scratch using Python or another programming language. They will apply this implementation to a simple mathematical function and visualize the convergence process to better understand how gradient descent works.
+
+Instructions:
+
+1. Introduction to Gradient Descent:
+
+Begin with an introduction that explains the concept of gradient descent in machine learning and optimization. Mention its significance in training machine learning models.
+2. Gradient Descent Implementation:
+
+Instruct students to implement the gradient descent algorithm. They should follow these steps:
+Choose a simple mathematical function (e.g., a quadratic function) that they want to optimize.
+Initialize the parameters (e.g., weights or coefficients) to arbitrary values.
+Define a cost or loss function associated with the chosen mathematical function.
+Calculate the gradient of the cost function with respect to the parameters.
+Update the parameters using the gradient and a learning rate.
+Repeat the gradient calculation and parameter update until convergence or for a specified number of iterations.
+3. Visualization:
+
+Encourage students to visualize the convergence process of gradient descent. They can:
+Plot the chosen mathematical function.
+Show the initial parameter values as a point on the plot.
+Plot the trajectory of parameter updates as gradient descent iterates.
+Highlight the final optimized parameter values.
+4. Code Documentation:
+
+Require students to provide clear and concise code documentation, including comments explaining each step of the implementation.
+5. Experimentation:
+
+Suggest that students experiment with different learning rates and observe how it affects the convergence speed and final parameter values.
+6. Reporting:
+
+Instruct students to create a report or presentation summarizing their implementation and findings. The report should include:
+A description of the chosen mathematical function.
+Visualization of the gradient descent convergence process.
+Discussion of the impact of learning rate choices.
+Insights into the behavior of the algorithm.
+7. Discussion:
+
+Encourage students to discuss their observations and insights from implementing gradient descent. What did they learn about gradient descent, convergence, and the role of learning rate?
+8. Code Submission:
+
+Collect and evaluate students' code implementations and reports.
+Evaluation Criteria:
+
+This assignment will be assessed based on the following criteria:
+
+Correct implementation of gradient descent.
+Clarity and accuracy of code documentation.
+Effective visualization of the convergence process.
+Thorough experimentation and discussion of learning rate choices.
+Insights into gradient descent behavior and convergence.
+Quality and organization of the report or presentation.

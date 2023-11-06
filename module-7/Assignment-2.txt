@@ -1,0 +1,49 @@
+Text Generation Project
+
+Objective: To create a text generation project using deep learning techniques.
+
+Task:
+
+In this assignment, students will work on developing a text generation project using a deep learning model, either a recurrent neural network (e.g., LSTM) or a transformer model (e.g., GPT-2). They will perform the following tasks:
+
+1. Dataset Selection:
+
+Provide students with a text corpus as the basis for text generation. The dataset can include sources such as books, articles, or websites. Ensure that the dataset is diverse and contains a substantial amount of text.
+2. Data Preprocessing:
+
+Instruct students to preprocess the text data, which may involve tasks such as tokenization, removing special characters, converting text to lowercase, and splitting the text into sequences or chunks suitable for modeling.
+3. Model Selection:
+
+Guide students in choosing an appropriate deep learning model for text generation. They can opt for either a recurrent neural network (RNN) with LSTM units or a transformer model like GPT-2. Explain the differences between the two and the potential use cases.
+4. Model Architecture:
+
+Help students design the architecture of their chosen model. For RNN-based models, they should define the number of layers, units per layer, and the embedding layer. For transformer models, they can select the size of the model (e.g., small, medium, large) and configure the attention mechanisms.
+5. Model Training:
+
+Instruct students to train the text generation model on the preprocessed dataset. They should define a suitable loss function and use an optimizer like Adam. Students should experiment with different hyperparameters, such as learning rates and batch sizes.
+6. Text Generation:
+
+Assign students the task of generating coherent text samples using their trained model. They should explore techniques such as random text generation, conditional text generation, and text completion.
+7. Evaluation:
+
+Encourage students to evaluate the quality of the generated text. They can use evaluation metrics like perplexity, BLEU score, or human evaluation. Additionally, they should discuss the strengths and weaknesses of their model's text generation.
+8. Hyperparameter Tuning:
+
+Students should experiment with hyperparameter tuning to improve the quality of generated text. This may involve adjusting the model architecture, temperature parameter (for controlling randomness), or other relevant hyperparameters.
+9. Error Analysis:
+
+Students should analyze any errors or quirks in the generated text and discuss potential reasons for these issues. This can lead to insights on how to improve the model.
+10. Report and Presentation:
+- Require students to create a detailed report that includes information about the dataset, model architecture, training process, evaluation metrics, and generated text samples. They should also prepare a presentation to showcase their project and findings.
+
+Evaluation Criteria:
+
+This assignment will be assessed based on the following criteria:
+
+Proper preprocessing and handling of the text dataset.
+Correct implementation and training of the text generation model.
+Quality and coherence of the generated text samples.
+Effective hyperparameter tuning efforts and model optimization.
+Clear error analysis and discussion of the generated text's quality.
+Quality of the report and presentation, including code documentation and explanations.
+Demonstration of an understanding of deep learning for text generation.

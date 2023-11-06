@@ -1,0 +1,56 @@
+Transfer Learning with PyTorch
+
+Objective: To gain hands-on experience in performing transfer learning using PyTorch and pretrained models for image classification tasks.
+
+Task:
+
+In this assignment, students will explore transfer learning with PyTorch by taking advantage of pretrained models such as ResNet or Inception. They will adapt a pretrained model for a specific image classification task, fine-tune it, and evaluate its performance using a custom dataset. This assignment will help students understand the power of transfer learning and how pretrained models can be leveraged for their own projects.
+
+Instructions:
+
+1. Introduction to Transfer Learning:
+
+Begin with an introduction to the concept of transfer learning in deep learning. Explain how pretrained models can be used as a starting point for custom tasks, saving time and computational resources.
+2. Problem Statement:
+
+Define an image classification problem for students to work on. For example, they can classify images of animals into different species or identify plant diseases from images.
+3. Pretrained Model Selection:
+
+Guide students in selecting an appropriate pretrained model (e.g., ResNet, Inception) based on their chosen image classification problem. Explain why the selected model is a good fit.
+4. Custom Dataset Preparation:
+
+Instruct students to collect or provide them with a custom dataset relevant to the chosen problem. They should preprocess the dataset, including data augmentation and splitting it into training and testing sets.
+5. Model Adaptation:
+
+Teach students how to adapt the pretrained model for their specific classification task. They should replace the model's final classification layer with a new layer that matches the number of classes in their dataset.
+6. Fine-Tuning:
+
+Explain the concept of fine-tuning, where students only update the weights of the adapted layers while keeping the pretrained layers fixed. Guide them through the process of fine-tuning the model on their custom dataset.
+7. Training Loop:
+
+Help students set up a training loop using PyTorch. They should train the model, calculate loss, and monitor performance metrics during training.
+8. Evaluation:
+
+Instruct students to evaluate the fine-tuned model's performance on the test dataset. They should report classification accuracy and potentially other relevant metrics based on their problem.
+9. Visualization:
+
+Encourage students to create visualizations, such as confusion matrices or sample predictions, to illustrate the model's performance.
+10. Experimentation:
+
+Challenge students to experiment with different hyperparameters (e.g., learning rate, batch size) and observe their impact on model performance.
+11. Conclusion:
+- Conclude the assignment by discussing the benefits and challenges of transfer learning, as well as insights gained from the experiments.
+
+12. Reporting:
+- Students should document their work in a report or Jupyter notebook, including code, visualizations, and explanations.
+
+Evaluation Criteria:
+
+This assignment will be assessed based on the following criteria:
+
+Correct adaptation and fine-tuning of a pretrained model using PyTorch.
+Proper dataset preparation, including data augmentation and splitting.
+Successful training and evaluation of the fine-tuned model.
+Quality of visualizations and ability to interpret results.
+Creativity and thoroughness in experimentation.
+Clarity and completeness of the report or notebook.
